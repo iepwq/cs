@@ -421,7 +421,6 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 康巴卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000003000001598/1.m3u8?channel-id=bestzb&Contentid=5000000003000001598&livemode=1&stbId=3
 南充综合,https://file.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8
 南充科教生活,https://file.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8
-南充公共,https://file.ncntv.com.cn/nmip-media/channellive/channel102990/playlist.m3u8
 营山综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel101492/playlist.m3u8
 
 数字频道,#genre#
