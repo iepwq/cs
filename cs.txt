@@ -473,7 +473,7 @@ CHC家庭影院,http://111.20.35.103:6610/yinhe/2/ch00000090990000002085/index.m
 山西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8
 山西卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?
 山西卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
+
 陕西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 陕西卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225625/index.m3u8
@@ -482,6 +482,7 @@ CHC家庭影院,http://111.20.35.103:6610/yinhe/2/ch00000090990000002085/index.m
 陕西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
 陕西卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?
 陕西卫视,http://123.132.234.158:8154/tsfile/live/0136_1.m3u8
+陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225943/index.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
