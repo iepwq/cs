@@ -472,6 +472,12 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 
 
 地方频道,#genre#
+四川经济,http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四川文化旅游,http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1705227938&U=417cccfd-ffa6-4483-b309-5f955b0f0f41&A=2&K=14&P=011&S=f75bb3791b5ca4ab0df7a8c3ad02f599
+四川新闻,http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1705228069&U=439326a6-60ed-40f8-99ca-d1d7b797a97d&A=2&K=8&P=011&S=4919e88916c360f17627ea0d8e787b36
+四川影视文艺,http://cdn-out.iqy.sc96655.com/tslive/prod/SCTV-5-scysH265_4000/SCTV-5-scysH265_4000.m3u8?key=0b46c89e741dea71d800d0f08d68a6c73&dis_k=24ea3058f25a3379f3d1d02eaef40a6ee&dis_t=1705210096&dis_dz=CT-SiChuan_ChengDu&dis_st=93&z=live_box_sichuan_other&pv=0.2&live_box=1
+四川星空购物,http://live2.rxip.sc96655.com/live/xkgwgq_4000.m3u8?E=1705228176&U=32fd91f9-7d9b-4d7e-a613-ef239b2c54a5&A=2&K=11&P=011&S=d2a9934aa6600400f8af80eb6aa856fb
+四川妇女儿童,http://live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1705228207&U=689ed02d-db2d-4448-bd47-310e9ca285e8&A=1&K=11&P=011&S=e0b7a0ff98d3813f7a93e455b50225de96dd6f5b
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 康巴卫视,http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
@@ -480,6 +486,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 南充科教生活,https://file.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8
 南充科教生活,http://111.9.172.131:9901/tsfile/live/1001_1.m3u8
 营山综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel101492/playlist.m3u8
+
 
 
 数字频道,#genre#
@@ -790,4 +797,3 @@ CCTV-8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/32212
 汪汪队长204,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ab3ada6f1f5b498099fcb2a51be260df/1200.m3u8
 汪汪队长205,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4fbe78e68fd4479faab69a1e4ef8bbda/1200.m3u8
 汪汪队长206,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/71d880f884d142aab61115952f761a75/1200.m3u8
-
