@@ -48,7 +48,7 @@
 {"name":"卧龙资源","url":"https://collect.wolongzyw.com/api.php"},
 {"name":"U酷资源","url":"https://api.ukuapi.com/api.php"},
 {"name":"红牛资源","url":"https://www.hongniuzy2.com/api.php"},
-{"name":"七七","url":"https://api.tyun77.cn/api.php"}
+{"name":"七七","url":"https://api.tyun77.cn/api.php"},
 {"name":"极速资源","url":"https://jszyapi.com/api.php"}
 ],
 
