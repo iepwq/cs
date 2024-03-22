@@ -75,7 +75,7 @@
 
 ],
 
-"dianshizhibo": "https://gitee.com/iepwq/cs/raw/master/tszscs.txt",
+"dianshizhibo": "https://gitee.com/iepwq/cs/raw/master/zscs.txt",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=#.mkv#rtmp://",
 "guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#.pw#.svg#.js",
 
