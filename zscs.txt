@@ -1,0 +1,148 @@
+
+{"Home": [
+{"key":"网页","title":"网页","pic":"https://gitee.com/iepwq/cs/raw/master/tszs/wy.png"},
+{"key":"采集","title":"采集","pic":"https://gitee.com/iepwq/cs/raw/master/tszs/cj.png"},
+{"key":"APP","title":"APP","pic":"https://gitee.com/iepwq/cs/raw/master/tszs/app.png"},
+{"key":"直播","title":"直播","pic":"https://gitee.com/iepwq/cs/raw/master/tszs/zb.png"},
+{"key":"历史","title":"历史","pic":"https://gitee.com/iepwq/cs/raw/master/tszs/ls.png"},
+{"key":"收藏","title":"收藏","pic":"https://gitee.com/iepwq/cs/raw/master/tszs/sc.png"},
+
+
+{"key": "自选网页",
+"title": "少儿",
+"pic": "https://gitee.com/iepwq/cs/raw/master/tszs/se.png",
+"custom": "eyJuYW1lIjogIuWwkeWEv+WQiOmbhiIsCiJ1cmwiOiAiaHR0cHM6Ly9hcGkuYmlsaWJpbGkuY29tIiwgICAKInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBNSSA4KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTYuMC40NjY0LjEwNCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsIAoiY29va2llIjoiYnV2aWQzPTEyMyIsCiLnpoHnlKjmkJzntKIiOiAiMSIsCiJVc2VyIjogIuepuiIsICAgIAoi5qiq5Zu+5pi+56S6IjogIjEiLAoiZmVubGVpIjogIuWEv+erpeatjOabsiQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5q2M5puyJnBhZ2U9I+WEv+erpeaVheS6iyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5pWF5LqLJnBhZ2U9I+WEv+erpeWQr+iSmeaVheS6iyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5ZCv6JKZ5pWF5LqLJnBhZ2U9I+WEv+erpeiLseivreWQr+iSmSQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul6Iux6K+t5ZCv6JKZJnBhZ2U9I+WEv+erpeiInui5iCQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul6Iie6LmIJnBhZ2U9I+WEv+erpeedoeWJjeaVheS6iyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul552h5YmN5pWF5LqLJnBhZ2U9I+WEv+erpeWNgeS4h+S4quS4uuS7gOS5iCQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5Y2B5LiH5Liq5Li65LuA5LmIJnBhZ2U9I+WEv+erpeWKqOeUu+iLseivrSQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5Yqo55S76Iux6K+tJnBhZ2U9I+WEv+erpeWBpei6q+aTjSQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5YGl6Lqr5pONJnBhZ2U9I+WEv+erpeaXqeaVmSQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5pep5pWZJnBhZ2U9IiwgCiJob3V6aHVpIjogIiIsCiJzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJqaWVxdXFpYW4iOiAi56m6IiwKImppZXF1aG91IjogIuepuiIsCiJqaWVxdXNodXp1cWlhbiI6ICJ7XCJ0eXBlXCI6XCJ2aWRlbyIsICAgCiJqaWVxdXNodXp1aG91IjogImNvcm5lciIsCiJ0dXBpYW5xaWFuIjogIlwicGljXCI6XCIiLCAKInR1cGlhbmhvdSI6ICJcIiIsCiJ0dXBpYW5xaWFuemh1aSI6ICJodHRwOiIsCiJmdWJpYW90aXFpYW4iOiAiZHVyYXRpb25cIjpcIiIsIAoiZnViaWFvdGlob3UiOiAiXCIiLAoibGlhbmppZXFpYW4iOiAiXCJidmlkXCI6XCIiLAoibGlhbmppZWhvdSI6ICJcIiIsCiJsanFpYW56aHVpIjogImh0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS92aWRlby8iLAoiYmlhb3RpcWlhbiI6ICJcInRpdGxlXCI6XCIiLAoiYmlhb3RpaG91IjogIlwiLCIsCiJzb3VzdW9ob3V6aHVpIjogIi92b2RkZXRhaWwvIiwKInNvdXN1b3FpYW4iOiAiIiwKInNvdXN1b2hvdSI6ICIiLAoic3Ntb3NoaSI6ICIxIiwKInNvdXN1b3NoaWZvdWVyY2lqaWVxdSI6ICIwIiwKInNzamllcXVxaWFuIjogIuepuiIsCiJzc2ppZXF1aG91IjogIuepuiIsCiJzc2ppZXF1c2h1enVxaWFuIjogIntcInR5cGVcIjpcInZpZGVvIiwKInNzamllcXVzaHV6dWhvdSI6ICJjb3JuZXIiLAoic3N0dXBpYW5xaWFuIjogIlwicGljXCI6XCIiLAoic3N0dXBpYW5ob3UiOiAiXCIiLAoic3N0dXBpYW5xaWFuemh1aSI6ICJodHRwOiIsCiJzc2JpYW90aXFpYW4iOiAiYXV0aG9yXCI6XCIiLAoic3NiaWFvdGlob3UiOiAiXCIiLAoic3NsaWFuamllcWlhbiI6ICJcImJ2aWRcIjpcIiIsCiJzc2xpYW5qaWVob3UiOiAiXCIiLAoic3NsanFpYW56aHVpIjogImh0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS92aWRlby8iLAoiYmZzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJiZmppZXF1cWlhbiI6ICLnqboiLAoiYmZqaWVxdWhvdSI6ICLnqboiLAoiYmZqaWVxdXNodXp1cWlhbiI6ICJcInBhZ2VzXCIiLAoiYmZqaWVxdXNodXp1aG91IjogIl0iLAoiemh1YW5ndGFpcWlhbiI6ICJQdWJsaXNoZWRcIiBjb250ZW50PVwiIiwKInpodWFuZ3RhaWhvdSI6ICJcIiIsCiJkYW95YW5xaWFuIjogImF1dGhvclwiIGNvbnRlbnQ9XCIiLCAgIAoiZGFveWFuaG91IjogIlwiIiwKInpodXlhbnFpYW4iOiAidG5hbWVcIjpcIiIsICAgCiJ6aHV5YW5ob3UiOiAiXCIiLAoianVxaW5ncWlhbiI6ICJyYXdfdGV4dFwiOlwiIiwKImp1cWluZ2hvdSI6ICJcIiIsCiJiZnlzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJiZnlqaWVxdXFpYW4iOiAi56m6IiwKImJmeWppZXF1aG91IjogIuepuiIsCiJiZnlqaWVxdXNodXp1cWlhbiI6ICJ7IiwKImJmeWppZXF1c2h1enVob3UiOiAifSIsCiJiZmJpYW90aXFpYW4iOiAicGFydFwiOlwiIiwKImJmYmlhb3RpaG91IjogIlwiIiwKImJmbGlhbmppZXFpYW4iOiAicGFnZVwiOiIsCiJiZmxpYW5qaWVob3UiOiAiLCIsCiJiZnFpYW56aHVpIjogIj9wPSJ9"},
+
+
+
+{"key":"推送","title":"推送","pic":"https://gitee.com/iepwq/cs/raw/master/tszs/ts.png"}
+],
+
+"去广告规则":[
+{"名字":"LZ",
+"寻找词":"vip.lz#hd.lz",
+"正则规则":[
+"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+]
+},
+{"名字":"FF",
+"寻找词":"vip.ffzy#hd.ffzy",
+"正则规则":[
+"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+]
+}
+],
+
+//APP
+"zhuyejiekou": [
+{"name":"美剧范","url":"http://ttzmz.net/api.php/v1.vod"},
+{"name":"段友影视","url":"https://shangjihuoke.com/api.php/tv.vod"}
+
+
+
+],
+
+//采集接口
+"caijizhan": [
+{"name":"量子资源","url":"https://cj.lziapi.com/api.php"},
+{"name":"非凡资源","url":"http://ffzy.tv/api.php"},
+{"name":"益达影院","url":"http://luobu.yss6080.com/mogai_api.php"},
+{"name":"红牛资源","url":"https://www.hongniuzy2.com/api.php"},
+{"name":"U酷资源","url":"https://api.ukuapi.com/api.php"},
+{"name":"樱花资源","url":"https://m3u8.apiyhzy.com/api.php"},
+{"name":"光速资源","url":"https://api.guangsuapi.com/api.php"},
+{"name":"卧龙资源","url":"https://collect.wolongzyw.com/api.php"}
+
+
+],
+
+"zhujiexi":[
+{"name":"主解1","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+{"name":"主解2","url": "https://hc.izny.cn/json.php?url="},
+{"name":"主解3","url": "http://110.42.2.115:880/analysis/json/?uid=2284&my=efghjmxzADEFIS0268&url="},
+{"name":"主解4","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="}
+
+
+],
+
+"beiyongjiexi": [
+{"name":"备解1", "url": "https://jx.xmflv.com/?url="},
+{"name":"备解2","url":"https://jx.jsonplayer.com/player/?url="}, 
+{"name":"备解3","url": "https://jx.bozrc.com:4433/player/?url="}
+
+
+],
+
+"dianshizhibo": "https://gitee.com/iepwq/cs/raw/master/tszscs.txt",
+"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=#.mkv#rtmp://",
+"guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#.pw#.svg#.js",
+
+//网页接口
+"zidingyi": [
+{"网站名字": "电影港磁力",
+"网站地址": "https://www.dyg123.cc",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"播放请求头": "空",
+"嗅探词": ".m3u8#.mp4#.mkv",
+"过滤词": ".css#.js#.jpg#.png#baidu.com#51.la#.gif#yinghuavideo.com",
+"列表起始页": "1",
+"筛选列表模式": "1",
+"筛选列表": [
+{
+"分类名称": "电视剧",
+"第一页分类链接": "https://www.dyg123.cc/类型index.html",
+"分类链接": "https://www.dyg123.cc/类型index_翻页.html",
+"类型": "全部$dsj/#国产剧$dsj/dlj/#日韩剧$dsj/rhj/#欧美剧$dsj/omj/"
+},
+{
+"分类名称": "电影",
+"第一页分类链接": "https://www.dyg123.cc/类型index.html",
+"分类链接": "https://www.dyg123.cc/类型index_翻页.html",
+"类型": "全部$dy/#动作片$dy/bangumi/#喜剧片$dy/tvplay/#爱情片$dy/aqp/#科幻片$dy/khp/#剧情片$dy/jqp/#恐怖片$dy/kbp/#战争片$dy/zzp/#记录片$dy/jlp/#动画片$dy/donghuapian/"
+},
+{
+"分类名称": "综艺",
+"第一页分类链接": "https://www.dyg123.cc/zyjm/index.html",
+"分类链接": "https://www.dyg123.cc/zyjm/index_翻页.html"
+}
+],
+"列表二次截取": "空",
+"列表截取数组": "class=\"link-hover\"$$</li>",
+"列表图片前缀": "空",
+"列表图片": "data-original=\"$$\"",
+"列表标题": "alt=\"$$\"",
+"列表副标题": "空",
+"列表链接": "href=\"$$\"",
+"列表链接前缀": "",
+"列表链接后缀": "",
+"搜索请求方式": "1",
+"搜索模式": "1",
+"搜索前": "https://www.dyg123.cc/e/search/index.php",
+"搜索后": "keyboard=搜索词&submit=搜索&show=title,zhuyan&tempid=1",
+"搜索带翻页模式": "空",
+"搜索连接后缀": "空",
+"搜索二次截取": "空",
+"搜索截取数组": "class=\"link-hover\"$$</li>",
+"搜索图片前缀": "空",
+"搜索图片": "data-original=\"$$\"",
+"搜索标题": "alt=\"$$\"",
+"搜索副标题": "空",
+"搜索链接": "href=\"$$\"",
+"搜索链接前缀": "",
+"搜索链接后缀": "",
+"播放页状态": "name=\"description\" content=\"$$\"",
+"播放页导演": "空",
+"播放页演员": "空",
+"播放页剧情": "简　　介$$<hr",
+"播放页二次截取": "",
+"播放页截取数组": "<tbody>$$</tbody>",
+"播放剧集二次截取": "",
+"播放剧集截取数组": "<a$$/a>",
+"播放剧集标题": ">$$<",
+"播放剧集链接": "href=\"$$\"",
+"播放剧集链接前缀": "",
+"播放剧集链接后缀": ""}
+]
+}
