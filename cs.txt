@@ -1,105 +1,105 @@
 央视频道,#genre#
-CCTV-1综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8$陕西移动套1080
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8$陕西移动1080
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$陕西移动1080
+CCTV-1综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8$陕西移动1080
 CCTV-1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8$黑龙江移动1080
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$黑龙江移动1080
 CCTV-1综合,http://123.132.234.158:8154/tsfile/live/0001_1.m3u8$山东联通1080
-CCTV-2财经,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$陕西移动套1080
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$陕西移动1080
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8$陕西移动1080
+CCTV-2财经,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$陕西移动1080
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$黑龙江移动1080
 CCTV-2财经,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$黑龙江移动720
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$黑龙江移动720
 CCTV-2财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8$河南电信1080
 CCTV-2财经,http://123.132.234.158:8154/tsfile/live/0002_1.m3u8$山东联通1080
-CCTV-3综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8$陕西移动套1080
 CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$陕西移动1080
+CCTV-3综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8$陕西移动1080
 CCTV-3综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$黑龙江移动1080
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$黑龙江移动1080
 CCTV-3综艺,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8$河南电信1080
 CCTV-3综艺,http://123.132.234.158:8154/tsfile/live/0003_1.m3u8$山东联通576
-CCTV-4中文国际,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$陕西移动套1080
 CCTV-4中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8$陕西移动1080
 CCTV-4中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8$陕西移动1080
+CCTV-4中文国际,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8$陕西移动1080
 CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$黑龙江移动1080
 CCTV-4中文国际,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8$黑龙江移动720
 CCTV-4中文国际,http://123.132.234.158:8154/tsfile/live/0004_1.m3u8$山东联通1080
 CCTV-4中文国际,http://1.195.111.251:11190/tsfile/live/0004_1.m3u8$河南电信576
-CCTV-5体育,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$陕西移动套1080
 CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$陕西移动1080
+CCTV-5体育,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8$陕西移动1080
 CCTV-5体育,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$黑龙江移动1080
 CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$黑龙江移动1080
 CCTV-5体育,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8$河南电信1080
 CCTV-5体育,http://123.132.234.158:8154/tsfile/live/0005_1.m3u8$山东联通576
-CCTV-6电影,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8$陕西移动套1080
 CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$陕西移动1080
 CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$陕西移动1080
+CCTV-6电影,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8$陕西移动1080
 CCTV-6电影,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8$黑龙江移动1080
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$黑龙江移动1080
 CCTV-6电影,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8$河南电信1080
 CCTV-6电影,http://123.132.234.158:8154/tsfile/live/0006_1.m3u8$山东联通576
-CCTV-7国防军事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8$陕西移动套1080
 CCTV-7国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$陕西移动1080
+CCTV-7国防军事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8$陕西移动1080
 CCTV-7国防军事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8$黑龙江移动1080
 CCTV-7国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$黑龙江移动1080
 CCTV-7国防军事,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8$河南电信1080
 CCTV-7国防军事,http://123.132.234.158:8154/tsfile/live/0007_1.m3u8$山东联通1080
-CCTV-8电视剧,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$陕西移动套1080
 CCTV-8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8$陕西移动1080
+CCTV-8电视剧,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$陕西移动1080
 CCTV-8电视剧,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8$黑龙江移动1080
 CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$黑龙江移动1080
 CCTV-8电视剧,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8$河南电信1080
 CCTV-8电视剧,http://123.132.234.158:8154/tsfile/live/0008_1.m3u8$山东联通576
-CCTV-9纪录,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$陕西移动套1080
 CCTV-9纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$陕西移动1080
+CCTV-9纪录,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8$陕西移动1080
 CCTV-9纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8$黑龙江移动1080
 CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$黑龙江移动1080
 CCTV-9纪录,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8$河南电信1080
 CCTV-9纪录,http://123.132.234.158:8154/tsfile/live/0009_1.m3u8$山东联通1080
-CCTV-10科教,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8$陕西移动套1080
 CCTV-10科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$陕西移动1080
+CCTV-10科教,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8$陕西移动1080
 CCTV-10科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8$黑龙江移动1080
 CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$黑龙江移动1080
 CCTV-10科教,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8$河南电信1080
 CCTV-10科教,http://123.132.234.158:8154/tsfile/live/0010_1.m3u8$山东联通1080
-CCTV-11戏曲,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8$陕西移动套1080
 CCTV-11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8$陕西移动1080
+CCTV-11戏曲,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8$陕西移动1080
 CCTV-11戏曲,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8$黑龙江移动720
 CCTV-11戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$黑龙江移动720
 CCTV-11戏曲,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8$河南电信1080
 CCTV-11戏曲,http://123.132.234.158:8154/tsfile/live/0011_1.m3u8$山东联通1080
-CCTV-12社会与法,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$陕西移动套1080
 CCTV-12社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8$陕西移动1080
+CCTV-12社会与法,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8$陕西移动1080
 CCTV-12社会与法,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8$黑龙江移动1080
 CCTV-12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$黑龙江移动1080
 CCTV-12社会与法,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8$河南电信1080
 CCTV-12社会与法,http://123.132.234.158:8154/tsfile/live/0012_1.m3u8$山东联通1080
-CCTV-13新闻,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$陕西移动套1080
 CCTV-13新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$陕西移动1080
+CCTV-13新闻,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8$陕西移动1080
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$黑龙江移动1080
 CCTV-13新闻,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8$黑龙江移动720
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$黑龙江移动720
 CCTV-13新闻,http://123.132.234.158:8154/tsfile/live/0013_1.m3u8$山东联通1080
 CCTV-13新闻,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8$河南电信576
-CCTV-14少儿,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8$陕西移动套1080
 CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8$陕西移动1080
+CCTV-14少儿,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8$陕西移动1080
 CCTV-14少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8$黑龙江移动1080
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$黑龙江移动1080
 CCTV-14少儿,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8$河南电信1080
 CCTV-14少儿,http://123.132.234.158:8154/tsfile/live/0014_1.m3u8$山东联通1080
-CCTV-15音乐,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8$陕西移动套1080
 CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$陕西移动1080
+CCTV-15音乐,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8$陕西移动1080
 CCTV-15音乐,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8$黑龙江移动720
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$黑龙江移动720
 CCTV-15音乐,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8$河南电信1080
 CCTV-15音乐,http://123.132.234.158:8154/tsfile/live/0015_1.m3u8$山东联通1080
-CCTV-16奥林匹克,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$陕西移动套1080
 CCTV-16奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$陕西移动1080
+CCTV-16奥林匹克,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$陕西移动1080
 CCTV-16奥林匹克,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$黑龙江移动1080
 CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$黑龙江移动1080
-CCTV-17农业农村,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$陕西移动套1080
 CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8$陕西移动1080
+CCTV-17农业农村,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8$陕西移动1080
 CCTV-17农业农村,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$黑龙江移动1080
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$黑龙江移动1080
 CCTV-17农业农村,http://123.132.234.158:8154/tsfile/live/0019_1.m3u8$山东联通1080
@@ -112,6 +112,7 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动1080
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$陕西移动1080
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$陕西移动1080
+
 
 
 卫视频道,#genre#
@@ -173,24 +174,24 @@ CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 广东卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8$黑龙江移动1080
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$黑龙江移动1080
 广东卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$黑龙江移动1080
-甘肃卫视,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000322/index.m3u8$甘肃移动1080
 甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8$陕西移动576
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$黑龙江移动576
-甘肃卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225633/index.m3u8$黑龙江移动576
+甘肃卫视,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000322/index.m3u8$甘肃移动1080
 甘肃卫视,http://123.132.234.158:8154/tsfile/live/0141_1.m3u8$山东联通576
+甘肃卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225633/index.m3u8$黑龙江移动576
 广西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8$黑龙江移动1080
 广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8$陕西移动576
-广西卫视,http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225770/index.m3u8$陕西移动576
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8$黑龙江移动576
+广西卫视,http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225770/index.m3u8$陕西移动576
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$黑龙江移动1080
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226474/index.m3u8$黑龙江移动1080
 贵州卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225974/index.m3u8$黑龙江移动1080
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$黑龙江移动1080
-贵州卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226474/index.m3u8$黑龙江移动1080
 贵州卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$黑龙江移动1080
 贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8$陕西移动576
 贵州卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226030/index.m3u8$黑龙江移动576
 贵州卫视,http://123.132.234.158:8154/tsfile/live/0120_1.m3u8$山东联通1080
+贵州卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226474/index.m3u8$黑龙江移动1080
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8$陕西移动1080
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8$陕西移动1080
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8$陕西移动1080
@@ -212,23 +213,23 @@ CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8$陕西移动1080
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8$陕西移动1080
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8$陕西移动1080
-黑龙江卫视,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8$黑龙江移动1080
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$黑龙江移动1080
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8$黑龙江移动1080
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8$黑龙江移动1080
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$黑龙江移动1080
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8$黑龙江移动1080
+黑龙江卫视,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8$黑龙江移动1080
 黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$黑龙江移动1080
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226006/index.m3u8$黑龙江移动576
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8$黑龙江移动576
 黑龙江卫视,http://123.132.234.158:8154/tsfile/live/0143_1.m3u8$山东联通1080
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8$黑龙江移动1080
 海南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8$黑龙江移动1080
 海南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8$黑龙江移动1080
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$黑龙江移动1080
-海南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8$黑龙江移动1080
 海南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$黑龙江移动1080
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8$陕西移动576
 海南卫视,http://123.132.234.158:8154/tsfile/live/1000_1.m3u8$山东联通1080
+海南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8$黑龙江移动1080
 河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$黑龙江移动1080
 河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8$黑龙江移动1080
 河南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8$黑龙江移动1080
@@ -249,11 +250,11 @@ CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 吉林卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8$黑龙江移动1080
 吉林卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225981/index.m3u8$黑龙江移动1080
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$黑龙江移动1080
-吉林卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8$黑龙江移动1080
 吉林卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$黑龙江移动1080
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8$陕西移动576
 吉林卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226013/index.m3u8$黑龙江移动576
 吉林卫视,http://123.132.234.158:8154/tsfile/live/0116_1.m3u8$山东联通1080
+吉林卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8$黑龙江移动1080
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8$陕西移动1080
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8$陕西移动1080
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8$陕西移动1080
@@ -282,13 +283,13 @@ CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8$陕西移动576
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8$黑龙江移动576
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8$黑龙江移动576
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225634/index.m3u8$黑龙江移动576
 内蒙古卫视,http://123.132.234.158:8154/tsfile/live/0109_1.m3u8$山东联通576
+内蒙古卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225634/index.m3u8$黑龙江移动576
 宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8$陕西移动576
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8$黑龙江移动576
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8$黑龙江移动576
-宁夏卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225632/index.m3u8$黑龙江移动576
 宁夏卫视,http://123.132.234.158:8154/tsfile/live/0112_1.m3u8$山东联通576
+宁夏卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225632/index.m3u8$黑龙江移动576
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$黑龙江移动576
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8$黑龙江移动576
 青海卫视,http://123.132.234.158:8154/tsfile/live/0140_1.m3u8$山东联通1080
@@ -315,8 +316,8 @@ CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8$陕西移动576
 陕西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8$黑龙江移动576
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$黑龙江移动576
-陕西卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225625/index.m3u8$黑龙江移动576
 陕西卫视,http://123.132.234.158:8154/tsfile/live/0136_1.m3u8$山东联通576
+陕西卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225625/index.m3u8$黑龙江移动576
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8$陕西移动1080
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8$陕西移动1080
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8$陕西移动1080
@@ -348,10 +349,10 @@ CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 西藏卫视,http://123.132.234.158:8154/tsfile/live/0111_1.m3u8$山东联通576
 云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8$陕西移动576
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$黑龙江移动576
-云南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226444/index.m3u8$黑龙江移动576
 云南卫视,http://123.132.234.158:8154/tsfile/live/0119_1.m3u8$山东联通1080
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8$云南联通720
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8$云南联通720
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8$云南移动720
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8$云南移动720
+云南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226444/index.m3u8$黑龙江移动576
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8$陕西移动1080
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8$陕西移动1080
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8$陕西移动1080
@@ -362,8 +363,9 @@ CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$黑龙江移动1080
 浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$黑龙江移动1080
 浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$黑龙江移动1080
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$四川电信1080
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$河南移动1080
 浙江卫视,http://123.132.234.158:8154/tsfile/live/0124_1.m3u8$山东联通1080
+
 
 
 地方频道,#genre#
@@ -384,6 +386,7 @@ CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 
 
 
+
 数字频道,#genre#
 CCTV-第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$陕西移动1080
 CCTV-第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$陕西移动1080
@@ -398,9 +401,9 @@ CCTV-女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/P
 CCTV-兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8$陕西移动1080
 CCTV-兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8$陕西移动1080
 CCTV-世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8$陕西移动1080
-CCTV-5+体育赛事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$陕西移动套1080
 CCTV-5+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8$陕西移动1080
 CCTV-5+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8$陕西移动1080
+CCTV-5+体育赛事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8$陕西移动1080
 CCTV-5+体育赛事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$黑龙江移动1080
 CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑龙江移动1080
 CCTV-5+体育赛事,http://123.132.234.158:8154/tsfile/live/0016_1.m3u8$山东联通1080
@@ -414,9 +417,11 @@ CCTV-风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/
 CCTV-风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8$陕西移动1080
 CCTV-电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8$陕西移动1080
 CCTV-电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8$陕西移动1080
-重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8$黑龙江联通1080
-重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8$北京腾讯1080
+重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8$江苏腾讯云1080
 重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8$黑龙江联通1080
+重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8$黑龙江联通1080
+黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江移动1080
+黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$黑龙江移动1080
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$黑龙江移动1080
 CETV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8$陕西移动576
 CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$黑龙江移动576
@@ -428,13 +433,12 @@ CETV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8$
 CETV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8$陕西移动576
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$黑龙江移动576
 CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$黑龙江移动576
-CGTN-英语,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8$陕西移动套1080
 CGTN-英语,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8$陕西移动1080
-CGTN-英语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225604/index.m3u8$黑龙江移动576
+CGTN-英语,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8$陕西移动1080
 CGTN-英语,http://live.cgtn.com/1000/prog_index.m3u8$四川电信576
 CGTN-英语,http://live.cgtn.com/500/prog_index.m3u8$四川电信576
+CGTN-英语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225604/index.m3u8$黑龙江移动576
 CGTN-纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8$四川电信576
-
 
 
 
@@ -445,8 +449,9 @@ CCTV-3综艺4K,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV
 CCTV-16奥林匹克4K,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230984/1.m3u8$江苏移动2160
 CCTV-16奥林匹克4K,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/PLTV/1/224/3221230934/1.m3u8$江苏移动2160
 CCTV-4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230974/1.m3u8$江苏移动2160
-CCTV-8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8$江苏移动2160
 CCTV-8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8$江苏移动2160
+CCTV-8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8$江苏移动2160
+
 
 
 
@@ -454,10 +459,14 @@ CCTV-8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PL
 测试频道,#genre#
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8$陕西移动576
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8$陕西移动576
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$贵州电信1080
+凤凰中文,http://113.64.145.228:8081/hls/37/index.m3u8$广东电信1080
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$江苏移动1080
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8$陕西移动576
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8$陕西移动576
+凤凰资讯,http://113.64.145.228:8081/hls/36/index.m3u8$广东电信1080
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8$江苏移动1080
+凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8$广东电信1080
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$四川电信576
 直播中国精编,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$重庆电信720
 进士文化旅游景区四川营山,https://yslive.ysxtv.cn/ysrmt/ch4.m3u8?auth_key=1699924624-0-0-93c04ea53eb5ebcac325d282ded4c777$四川电信720
@@ -465,6 +474,7 @@ CCTV-8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PL
 华西医院营山院区四川营山,https://yslive.ysxtv.cn/ysrmt/ch2.m3u8?auth_key=1699924489-0-0-c1b4ba87f79704e966d7035c5ab2c9b6$四川电信720
 龙顶观四川营山,https://yslive.ysxtv.cn/ysrmt/ch1.m3u8?auth_key=1699924402-0-0-c69a5aef5d749b124e2a1e7918df7b31$四川电信720
 明德茶园四川营山,https://yslive.ysxtv.cn/ysrmt/ch5.m3u8?auth_key=1699924652-0-0-4d220e4e2fe6a851fbfd8f3709fd210d$四川电信720
+
 
 
 
@@ -591,40 +601,29 @@ CHC家庭影院,http://m.liuxiaobo.top:8888/udp/239.69.1.243:11100$湖北电信1
 
 
 
+
 地方川V4,#genre#
 四川经济,http://182.138.136.195:4455/udp/239.93.1.101:5140$四川电信1080
 四川经济,http://183.221.31.230:4088/udp/239.11.0.2:5140$四川移动1080
-四川经济,http://112.45.192.49:9999/udp/239.11.0.2:5140$四川移动1080
 四川文化旅游,http://182.138.136.195:4455/udp/239.93.1.102:5140$四川电信1080
 四川文化旅游,http://183.221.31.230:4088/udp/239.11.0.3:5140$四川移动1080
-四川文化旅游,http://112.45.192.49:9999/udp/239.11.0.3:5140$四川移动1080
 四川新闻,http://182.138.136.195:4455/udp/239.93.0.47:5140$四川电信1080
 四川新闻,http://183.221.31.230:4088/udp/239.11.0.5:5140$四川移动1080
-四川新闻,http://112.45.192.49:9999/udp/239.11.0.5:5140$四川移动1080
 四川影视文艺,http://182.138.136.195:4455/udp/239.93.0.166:5140$四川电信1080
 四川影视文艺,http://183.221.31.230:4088/udp/239.11.0.77:5140$四川移动1080
-四川影视文艺,http://112.45.192.49:9999/udp/239.11.0.77:5140$四川移动1080
 四川妇女儿童,http://182.138.136.195:4455/udp/239.93.0.219:5140$四川电信1080
 四川妇女儿童,http://183.221.31.230:4088/udp/239.11.0.8:5140$四川移动1080
-四川妇女儿童,http://112.45.192.49:9999/udp/239.11.0.8:5140$四川移动1080
 四川科教,http://182.138.136.195:4455/udp/239.93.42.44:5140$四川电信1080
 四川科教,http://183.221.31.230:4088/udp/239.11.0.194:5140$四川移动1080
-四川科教,http://112.45.192.49:9999/udp/239.11.0.194:5140$四川移动1080
 四川乡村,http://182.138.136.195:4455/udp/239.93.0.52:5140$四川电信1080
 四川乡村,http://183.221.31.230:4088/udp/239.11.0.4:5140$四川移动1080
-四川乡村,http://112.45.192.49:9999/udp/239.11.0.4:5140$四川移动1080
 四川峨眉电影,http://182.138.136.195:4455/udp/239.93.0.252:5140$四川电信1080
 四川峨眉电影,http://183.221.31.230:4088/udp/239.11.0.11:5140$四川移动1080
-四川峨眉电影,http://112.45.192.49:9999/udp/239.11.0.11:5140$四川移动1080
 康巴卫视,http://182.138.136.195:4455/udp/239.93.0.41:5140$四川电信1080
 康巴卫视,http://183.221.31.230:4088/udp/239.11.0.10:5140$四川移动1080
-南充综合,https://file.ncntv.com.cn/nmip-media/channellive/channel101604/playlist.m3u8$四川电信7200
 南充综合,http://183.221.31.230:4088/udp/239.10.0.68:5140$四川移动1080
-南充综合,http://112.45.192.49:9999/udp/239.10.0.68:5140$四川移动1080
-南充科教生活,https://file.ncntv.com.cn/nmip-media/channellive/channel100629/playlist.m3u8$四川电信7200
 南充科教生活,http://183.221.31.230:4088/udp/239.10.0.70:5140$四川移动1080
-南充科教生活,http://112.45.192.49:9999/udp/239.10.0.70:5140$四川移动1080
-营山综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel101492/playlist.m3u8$安徽电信720
+
 
 
 
@@ -660,6 +659,7 @@ CETV-4,http://182.138.136.195:4455/udp/239.93.0.50:5140$四川电信576
 
 
 
+
 超清川V4,#genre#
 CCTV-16奥林匹克4K,http://182.138.136.195:4455/udp/239.93.42.54:5140$四川电信2160
 CCTV-4K超高清,http://182.138.136.195:4455/udp/239.93.42.41:5140$四川电信2160
@@ -669,6 +669,7 @@ CCTV-4K超高清,http://182.138.136.195:4455/udp/239.93.42.42:5140$四川电信2
 爱上4K,http://182.138.136.195:4455/udp/239.93.0.97:5140$四川电信2160
 爱上4K,http://host.gaoxincloud.cn:4000/udp/239.109.205.53:8360$陕西电信2160
 绚影4K,http://182.138.136.195:4455/udp/239.93.42.33:5140$四川电信2160
+
 
 
 
@@ -725,9 +726,12 @@ CCTV-4K超高清,http://182.138.136.195:4455/udp/239.93.42.42:5140$四川电信2
 
 测试川V4,#genre#
 
+凤凰中文,http://118.113.159.249:4022/udp/239.93.1.9:2192$四川电信1080
 凤凰中文,http://182.138.136.195:4455/udp/239.93.0.162:2192$四川电信1080
+凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192$四川移动1080
+凤凰资讯,http://118.113.159.249:4022/udp/239.93.1.4:2191$四川电信1080
 凤凰资讯,http://182.138.136.195:4455/udp/239.93.0.118:2191$四川电信1080
-香港卫视,,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$云南电信576
+凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191$四川移动1080
 星空卫视,http://182.138.136.195:4455/udp/239.93.0.156:2193$四川电信576
 爱院线,http://182.138.136.195:4455/udp/239.93.42.11:5140$四川电信1080
 爱怀旧,http://182.138.136.195:4455/udp/239.93.42.21:5140$四川电信1080
@@ -745,5 +749,6 @@ CCTV-4K超高清,http://182.138.136.195:4455/udp/239.93.42.42:5140$四川电信2
 爱喜剧,http://182.138.136.195:4455/udp/239.93.42.9:5140$四川电信1080
 爱都市,http://182.138.136.195:4455/udp/239.93.42.15:5140$四川电信576
 爱成都,http://182.138.136.195:4455/udp/239.93.1.104:1234$四川电信1080
+
 
 
