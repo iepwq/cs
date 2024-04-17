@@ -129,7 +129,6 @@ CCTV-7国防军事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PL
 CCTV-7国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$4黑移1080
 CCTV-7国防军事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8$5黑移1080
 CCTV-7国防军事,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8$6黑移1080
-CCTV-7国防军事,https://live.v1.mk/api/bestv.php?id=CCTV-7hd8m/8000000$7OO2160
 CCTV-7国防军事,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?key=tvbox6_com$8OO1080
 CCTV-7国防军事,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHYKFve4MwNzRa0jPXeHjqnBjPmzSdKDNWNHhnZSaMGCXKmdx8d%2BnYdhVK5ge22ot4$9OO1080
 CCTV-7国防军事,http://58.223.164.98/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576203.m3u8$10OO1080
@@ -160,7 +159,6 @@ CCTV-9纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/888
 CCTV-9纪录,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8$3黑移1080
 CCTV-9纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8$4黑移1080
 CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$5黑移1080
-CCTV-9纪录,https://live.v1.mk/api/bestv.php?id=CCTV-9hd8m/8000000$6OO2160
 CCTV-9纪录,http://58.223.164.98/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576003.m3u8$7OO1080
 CCTV-9纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHArfvJF2pWpm4RxcBNhZ7j9vEUeCQte%2BbQaOGNIUEEK%2B3RBE1BC9EUsM18gnb%2FyAA$8OO1080
 CCTV-9纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?key=tvbox6_com$9OO1080
@@ -198,7 +196,6 @@ CCTV-11戏曲,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88
 CCTV-11戏曲,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$4黑移720
 CCTV-11戏曲,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8$5黑移720
 CCTV-11戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$6黑移720
-CCTV-11戏曲,https://live.goodiptv.club/api/cqyx.php?id=CCTV-11HD$7OO2160
 CCTV-11戏曲,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4$8OO1080
 CCTV-11戏曲,http://58.223.164.98/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8$9OO1080
 CCTV-11戏曲,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000497/index.m3u8?$10OO1080
@@ -214,7 +211,6 @@ CCTV-12社会与法,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/322122566
 CCTV-12社会与法,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$3黑移1080
 CCTV-12社会与法,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8$4黑移1080
 CCTV-12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$5黑移1080
-CCTV-12社会与法,https://live.v1.mk/api/bestv.php?id=CCTV-12hd8m/8000000$6OO2160
 CCTV-12社会与法,http://58.223.164.98/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575803.m3u8$7OO1080
 CCTV-12社会与法,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QMAmpLefguRLiOPXiDRWhxHg8yim2giTBA8RILsb%2B8Y5pkFUyZBE%2FkNJAbwncEegkU$8OO1080
 CCTV-12社会与法,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?key=tvbox6_com$9OO1080
@@ -257,7 +253,6 @@ CCTV-14少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/inde
 CCTV-14少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$3黑移1080
 CCTV-14少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8$4黑移1080
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$5黑移1080
-CCTV-14少儿,https://live.v1.mk/api/bestv.php?id=CCTV-sehd8m/8000000$6OO2160
 CCTV-14少儿,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8?$7OO1080
 CCTV-14少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5PYKFve4MwNzRa0jPXeHjqnp7khdLaCMP6L4QpTf84Oz6DvCG1%2BJ81QvStkxO%2FoGm8$8OO1080
 CCTV-14少儿,http://58.223.164.98/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8$9OO1080
@@ -300,7 +295,6 @@ CCTV-17农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.co
 CCTV-17农业农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8$4黑移1080
 CCTV-17农业农村,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$5黑移1080
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$6黑移1080
-CCTV-17农业农村,https://live.v1.mk/api/bestv.php?id=CCTV-17hd8m/8000000$7OO2160
 CCTV-17农业农村,http://58.223.164.98/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8$8OO1080
 CCTV-17农业农村,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM$9OO1080
 CCTV-17农业农村,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?key=tvbox6_com$10OO1080
@@ -874,7 +868,6 @@ CCTV-5+体育赛事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/P
 CCTV-5+体育赛事,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8$4黑移1080
 CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$5黑移1080
 CCTV-5+体育赛事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$6黑移1080
-CCTV-5+体育赛事,https://live.v1.mk/api/bestv.php?id=CCTV-5phd8m/8000000$7OO2160
 CCTV-5+体育赛事,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000461/index.m3u8?$8OO1080
 CCTV-5+体育赛事,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?$9OO1080
 CCTV-5+体育赛事,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o$10OO1080
@@ -912,8 +905,6 @@ CGTN-英语,http://123.187.46.90:65000/hls/9/index.m3u8$6辽电576
 CGTN-纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8$1黑移576
 CGTN-纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8$2川电576
 超清频道,#genre#
-北京纪实科教,https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD$1OO2160
-北京纪实科教,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22030/index.m3u8$2OO720
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS$1OO2160
 测试频道,#genre#
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv$1贵电1080
