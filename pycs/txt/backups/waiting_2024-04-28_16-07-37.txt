@@ -1,0 +1,13 @@
+CCTV4K超UHD,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+爱上UHDUHD,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+CCTV4K超UHD,http://host.gaoxincloud.cn:4000/udp/239.111.205.38:5140
+爱上UHDUHD,http://host.gaoxincloud.cn:4000/udp/239.109.205.53:8360
+CTV3,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000088/index.m3u8?key=tvbox6_com
+CTV5,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000461/index.m3u8?key=tvbox6_com
+BALKANS,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+大爱台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+某新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+阳湖综合,http://live.wjyanghu.com/live/CH1.m3u8
+CTV5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
+CTV5,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000083/index.m3u8?
+某FX综合,http://host.gaoxincloud.cn:4000/udp/239.111.205.89:5140

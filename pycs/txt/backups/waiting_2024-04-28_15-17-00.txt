@@ -1,0 +1,4 @@
+爱上UHDUHD,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+CCTV4K超UHD,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+CCTV4K超UHD,http://host.gaoxincloud.cn:4000/udp/239.111.205.38:5140
+爱上UHDUHD,http://host.gaoxincloud.cn:4000/udp/239.109.205.53:8360

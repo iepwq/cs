@@ -1,0 +1,3 @@
+欢笑剧场4KUHD,http://host.gaoxincloud.cn:4000/udp/239.111.205.1:5140
+爱上UHDUHD,http://host.gaoxincloud.cn:4000/udp/239.109.205.53:8360
+电影测试4KUHD,http://gzly.hkychina.com:6001/udp/239.252.220.212:5140

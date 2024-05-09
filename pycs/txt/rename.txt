@@ -1,0 +1,129 @@
+CCTV-10科教,cctv10-高清|CCTV10|cctv-10|cctv-10hd|CCTV-10高清|CCTV-10 科教|cctv-10fhd|CCTV-10|CCTV10-科教||CCTV-10_科教|CCTV10测试
+CCTV-11戏曲,cctv11-高清|CCTV11|cctv-11|cctv-11hd|CCTV-11高清|CCTV-11 戏曲|cctv-11fhd|CCTV-11|CCTV11-戏曲|CCTV-11_戏曲
+CCTV-12社会与法,cctv12-高清|CCTV12|cctv-12|cctv-12hd|CCTV-12高清|CCTV-12社会|CCTV-12 社会与法|cctv-12fhd|CCTV-12|CCTV-12高清测试|CCTV12-社会与法|CCTV-12|CCTV-12高清测试|CCTV-12_社会与法
+CCTV-13新闻,cctv13-高清|CCTV13|cctv-13|cctv-13hd|CCTV-13高清|CCTV-13 新闻|cctv-13fhd|CCTV-13|CCTV-13_新闻|CCTV新闻
+CCTV-14少儿,cctv14-高清|CCTV14|cctv-14|cctv-14hd|CCTV-14高清|CCTV-14 少儿|cctv-14fhd|CCTV-14_少儿|CCTV14测试|CCTV少儿
+CCTV-15音乐,cctv15-高清|CCTV15|cctv-15|cctv-15hd|CCTV-15高清|CCTV-15 音乐|cctv-15fhd|CCTV-15_音乐|CCTV音乐
+CCTV-16奥林匹克,cctv16-高清|CCTV16|cctv-16|cctv-16hd|CCTV-16高清|CCTV-16高清4M|CCTV-16高清8M|CCTV-16 奥林匹克|CCTV-16 奥林匹克4K|CCTV-16奥运4K|CCTV16-4K|cctv-16fhd|CCTV-16_奥林匹克|CCTV16-4k|CCTV16奥林|
+CCTV-17农业农村,cctv17-高清|CCTV17|cctv-17|cctv-17hd|CCTV-17高清|CCTV-17农业|CCTV17农业|CCTV-17 农业农村|CCTV-17农村农业|CCTV17农业农村|CCTV17农村农业|cctv-17fhd|CCTV-17_农业农村
+CCTV-1综合,cctv1-高清|CCTV1|cctv-1|cctv-1hd|CCTV-1高清|CCTV-1 综合|CCTV-1 综合4K|中央電視台綜合頻道|cctv-1fhd|cctv1|CCTV-1|CCTV-1_综合|cctv01|CCTV01
+CCTV-2财经,cctv2-高清|CCTV2|cctv-2|cctv-2hd|CCTV-2高清|CCTV-2 财经|cctv-2fhd|CCTV-2|CCTV-2_财经|cctv02|CCTV2测试|CCTV02
+CCTV-3综艺,cctv3-高清|CCTV3|cctv-3|cctv-3hd|CCTV-3高清|CCTV-3 综艺|CCTV-3 综艺4K|cctv-3fhd|CCTV-3|CCTV-3_综艺|cctv03|CCTV03
+CCTV-4K超高清,CCTV4K超高清|CCTV-4K超清|CCTV4K超清|CCTV-4K 4K50p|CCTV-4K|CCTV-4K 4K|cctv4k超高清|cctv-4k|CCTV-4K 超高清|CCTV-4K|CCTV4K 超高清|CCTV-超高清|CCTV4K|CCTV-4K超高清|CCTV4K超
+CCTV-4中文国际,cctv4-高清|CCTV4|cctv-4|cctv-4hd|CCTV-4高清|CCTV-4国际|CCTV-4 中文国际|cctv-4fhd|CCTV4-国际|CCTV-4_中文国际|cctv04|CCTV4中文|CCTV04
+CCTV-5+体育赛事,cctv5+-高清|CCTV5+|cctv-5+|cctv-5+hd|CCTV-5+高清|CCTV5⁺体育赛事|CCTV5⁺|CCTV-5⁺|CCTV-5⁺体育赛事|CCTV-体育赛事|CCTV-5+ 体育赛事|CCTV-5+赛事|cctv-5+fhd|CCTV-5+|CCTV-5+_体育赛事|CCTV05+|CCTV5+体育|CCTV5＋体育赛事|CCTV5＋
+CCTV-5体育,cctv5-高清|CCTV5|cctv-5|cctv-5hd|CCTV-5高清|CCTV-5 体育|CCTV-5 体育4K|cctv-5fhd|CCTV-5_体育|cctv05|CCTV05
+CCTV-6电影,cctv6-高清|CCTV6|cctv-6|cctv-6hd|CCTV-6|CCTV-6高清|CCTV-6 电影|cctv-6电影|cctv-6fhd|CCTV6电影|CCTV-6_电影|cctv06|CCTV06
+CCTV-7国防军事,cctv7-高清|CCTV7|cctv-7|cctv-7hd|CCTV-7高清|CCTV-7 国防军事|CCTV7国防军事|CCTV-7国防|CCTV7国防|CCTV7-国防军事|CCTV7-军事|CCTV-7军事|cctv-7fhd|CCTV7-军农|CCTV-7_国防军事|cctv07|CCTV7测试|CCTV07
+CCTV-8K超高清,CCTV8K超高清|CCTV-8K超清|CCTV8K超清|CCTV-8K 8K50p|CCTV-8K|CCTV-8K 8K|cctv8k超高清
+CCTV-8电视剧,cctv8-高清|CCTV8|cctv-8|cctv-8hd|CCTV-8高清|CCTV-8 电视剧|CCTV8电视剧|CCTV-8电视|CCTV8电视|CCTV8-电视剧|cctv-8fhd|CCTV-8|CCTV-8_电视剧|cctv08|CCTV08
+CCTV-9纪录,cctv9-高清|CCTV9|cctv-9|cctv-9hd|CCTV-9高清|CCTV-9记录|CCTV-9 纪录|cctv-9fhd|CCTV-9_纪录|cctv09|CCTV9测试|CCTV09
+CCTV-兵器科技,CCTV兵器科技|兵器科技|CCTV-兵器科技|央视兵器科技HD
+CCTV-第一剧场,CCTV第一剧场|第一剧场|CCTV-第一剧场|央视第一剧场HD
+CCTV-电视指南,CCTV电视指南|电视指南|CCTV-电视指南|CCTV电视指南HD
+CCTV-风云剧场,CCTV风云剧场|风云剧场|CCTV-风云剧场|CCTV风云剧场HD
+CCTV-风云音乐,CCTV风云音乐|风云音乐|CCTV-风云音乐|央视风云音乐
+CCTV-风云足球,CCTV风云足球|风云足球|CCTV-风云足球|央视风云足球HD
+CCTV-怀旧剧场,CCTV怀旧剧场|怀旧剧场|CCTV-怀旧剧场|央视怀旧剧场HD
+CCTV-女性时尚,CCTV女性时尚|女性时尚|CCTV-女性时尚|央视女性时尚HD
+CCTV-世界地理,CCTV世界地理|世界地理|CCTV-世界地理|央视世界地理
+CCTV-卫生健康,CCTV卫生健康|卫生健康|CCTV-卫生健康
+CCTV-央视台球,CCTV央视台球|央视台球|CCTV-央视台球|央视台球HD
+CETV-1,cetv1-高清|CETV1|cetv-1|cetv-1hd|CETV-1|CETV-1高清|教育1台|教育一台|中国教育1台|cetv-1fhd|CETV-01|中国教育-1|中国教育
+CETV-2,cetv2-高清|CETV2|cetv-2|cetv-2hd|CETV-2|CETV-2高清|教育2台|教育二台|中国教育2台|中国教育-2
+CETV-3,cetv3-高清|CETV3|cetv-3|cetv-3hd|CETV-3|CETV-3高清|教育3台|教育三台|中国教育3台
+CETV-4,cetv4-高清|CETV4|cetv-4|cetv-4hd|CETV-4|CETV-4高清|教育4台|教育四台|中国教育4台|CETV-04|中国教育-4
+CETV-早期教育,CETV早期教育|早期教育
+CGTN-纪录,CGTN纪录|中國環球電視網紀錄頻道 (CGTN紀錄頻道)|CGTN-纪录|CGTN记录
+CGTN-英语,CGTN|CGTN高清|CGTN-英语|CGTN英语高清|CGNTV
+CHC动作电影,CHC动作电影|CHC动作
+CHC影迷电影,CHC高清电影|高清电影|CHC高清|CHC影迷电影|影迷电影|CHC影迷
+CHC家庭影院,CHC家庭影院|家庭影院|CHC家庭
+IHOT-爱电竞,IHOT-爱电竞|IHOT爱电竞|爱电竞
+IHOT-爱谍战,IHOT-爱谍战|IHOT爱谍战|爱谍战
+IHOT-爱动漫,IHOT-爱动漫|IHOT爱动漫|爱动漫
+IHOT-爱都市,IHOT-爱都市|IHOT爱都市|爱都市
+IHOT-爱怀旧,IHOT-爱怀旧|IHOT爱怀旧|爱怀旧
+IHOT-爱经典,IHOT-爱经典|IHOT爱经典|爱经典
+IHOT-爱科幻,IHOT-爱科幻|IHOT爱科幻|爱科幻
+IHOT-爱奇谈,IHOT-爱奇谈|IHOT爱奇谈|爱奇谈
+IHOT-爱青春,IHOT-爱青春|IHOT爱青春|爱青春
+IHOT-爱赛车,IHOT-爱赛车|IHOT爱赛车|爱赛车
+IHOT-爱玩具,IHOT-爱玩具|IHOT爱玩具|爱玩具
+IHOT-爱喜剧,IHOT-爱喜剧|IHOT爱喜剧|爱喜剧
+IHOT-爱悬疑,IHOT-爱悬疑|IHOT爱悬疑|爱悬疑
+IHOT-爱幼教,IHOT-爱幼教|IHOT爱幼教|爱幼教
+IHOT-爱院线,IHOT-爱院线|IHOT爱院线|爱院线
+爱上,爱上4K
+安徽卫视,安徽卫视|安徽卫视hd|安徽卫视高清
+澳亚卫视,澳亚卫视|澳亚卫视高清|澳亚卫视台
+巴中综合,巴中综合
+百姓健康,百姓健康
+北京卫视,北京卫视|北京卫视hd|北京卫视高清
+兵团卫视,兵团卫视|兵团卫视hd|兵团卫视高清
+茶,茶频道|茶|湖南茶频道
+东方卫视,东方卫视|东方卫视hd|东方卫视高清|東方衛視
+东南卫视,东南卫视|福建东南卫视|东南卫视高清|福建卫视
+四川峨眉电影,峨嵋电影|四川峨眉电影|峨眉电影
+凤凰电影,凤凰电影|凤凰电影台|鳳凰電影
+凤凰香港,凤凰香港|凤凰香港台
+凤凰中文,凤凰中文|凤凰中文高清|凤凰卫视|凤凰卫视中文台|凤凰中文频道
+凤凰资讯,凤凰资讯|凤凰资讯高清|凤凰资讯台|凤凰咨询|凤凰卫视资讯台|鳳凰資訊
+甘肃卫视,甘肃卫视|甘肃卫视hd|甘肃卫视高清
+广东卫视,广东卫视|广东卫视hd|广东卫视高清|广东少儿|广东少儿高清
+广西卫视,广西卫视|广西卫视hd|广西卫视高清
+贵州卫视,贵州卫视|贵州卫视hd|贵州卫视高清
+海南卫视,海南卫视|海南卫视hd|海南卫视高清
+河北卫视,河北卫视|河北卫视hd|河北卫视高清
+河南卫视,河南卫视|河南卫视hd|河南卫视高清
+黑龙江卫视,黑龙江卫视|黑龙江卫视hd|黑龙江卫视高清
+黑莓电影,黑莓电影|黑莓電影
+黑莓动画,黑莓动画
+湖北卫视,湖北卫视|湖北卫视hd|湖北卫视高清
+湖南卫视,湖南卫视|湖南卫视hd|湖南卫视高清|湖南衛視
+欢笑剧场,欢笑剧场|欢笑剧场4K
+环球旅游,环球旅游
+吉林卫视,吉林卫视|吉林卫视hd|吉林卫视高清
+江苏卫视,江苏卫视|江苏卫视hd|江苏卫视高清
+江西卫视,江西卫视|江西卫视hd|江西卫视高清
+康巴卫视,康巴卫视
+快乐垂钓,快乐垂钓
+辽宁卫视,辽宁卫视|辽宁卫视hd|辽宁卫视高清
+内蒙古卫视,内蒙古卫视|内蒙古卫视hd|内蒙古卫视高清
+宁夏卫视,宁夏卫视|宁夏卫视hd|宁夏卫视高清
+青海卫视,青海卫视|青海卫视hd|青海卫视高清
+山东卫视,山东卫视|山东卫视hd|山东卫视高清
+山西卫视,山西卫视|山西卫视hd|山西卫视高清
+陕西卫视,陕西卫视|陕西卫视高清
+深圳卫视,深圳卫视|深圳卫视hd|深圳卫视高清
+四川妇女儿童,四川少儿|四川妇女儿童|SCTV7
+四川经济,四川经济|SCTV2
+四川科教,四川科教|SCTV8|SCTV科教
+四川卫视,四川卫视|四川卫视hd|四川卫视高清|SCTV1
+四川文化旅游,四川文旅|四川文化旅游|SCTV3
+四川乡村,四川乡村|SCTV9
+四川新闻,四川新闻|SCTV4
+四川影视文艺,四川影视|四川影视文艺|SCTV5|四川影视文化
+四海钓鱼,四海钓鱼
+台视,台视|台视台|台視
+天津卫视,天津卫视|天津卫视hd|天津卫视高清
+西藏卫视,西藏卫视|西藏卫视hd|西藏卫视高清
+香港卫视,香港卫视|香港卫视高清
+新疆卫视,新疆卫视|新疆卫视hd|新疆卫视高清
+星空卫视,星空卫视|星空卫视高清|星空
+优优宝贝,优优宝贝
+优优宝贝,优优宝贝|优优宝贝台
+云南卫视,云南卫视|云南卫视hd|云南卫视高清
+浙江卫视,浙江卫视|浙江卫视hd|浙江卫视高清|浙江衛視
+中国交通,中国交通|中国交通台
+中国天气,中国气像|中国气象
+重庆卫视,重庆卫视|重庆卫视hd|重庆卫视高清
+四川星空购物,SCTV6
+成都综合,CDTV1
+成都经济,CDTV2
+成都生活,CDTV3
+成都影视,CDTV4
+成都公共,CDTV5
+成都少儿,CDTV6
+成都每日购物,CDTV7|CDTV8
+爱成都,i成都
