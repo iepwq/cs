@@ -1205,6 +1205,11 @@ CCTV-4K超高清UHD,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shando
 澳视综艺,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8$2港香HD直
 台视,rtmp://f13h.mine.nu/sat/tv071$1台tHD直
 直播中国精编,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$1川移HD直
+进士文化旅游景区四川营山,https://yslive.ysxtv.cn/live1029/ch4.m3u8?auth_key=1730170498-0-0-5d218b0e194ffb0bee1be3021cd0a456$1川移720
+新时代广场四川营山,https://yslive.ysxtv.cn/live1029/ch3.m3u8?auth_key=1730170483-0-0-6e4087997276fda7129463608020a8f7$1川移720
+华西医院营山院区四川营山,https://yslive.ysxtv.cn/live1029/ch2.m3u8?auth_key=1730170466-0-0-4e8ad6d81bbf348d98ce533cd1593059$1川移720
+龙顶观四川营山,https://yslive.ysxtv.cn/live1029/ch1.m3u8?auth_key=1730170443-0-0-0739a85a001c0216fbe1ea63b18152b8$1川移720
+明德茶园四川营山,https://yslive.ysxtv.cn/live1029/ch5.m3u8?auth_key=1730170513-0-0-ccca694fb869db5541dc507e890c3a18$1川移720
 央视IPTV,#genre#
 CCTV-13新闻,http://125.82.171.210:8888/rtp/235.254.198.9:1312$1渝电SD直
 卫视IPTV,#genre#
