@@ -1,7 +1,6 @@
 央视频道,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8$1黑移HD回
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$2黑移FD回
-
 CCTV-1综合,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1580954862_989339440/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073730&ContentId=265183188&timezone=UTC&mtv_session=70e0f8e2241f03fbb284fe07471c1406&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8389d6ec822d0e298d3b92aa95fa266$3浙移FD直
 CCTV-1综合,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8$4琼移FD直
 CCTV-1综合,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$5苏电FD直
