@@ -4861,7 +4861,6 @@ CCTV-8K超高清UHD,http://lt.hxtre.com:35455/gaoma/cctv8k_36m.m3u8$3皖联4K直
 CCTV-8K超高清UHD,http://117.144.58.42:35455/gaoma/cctv8k_36m.m3u8$4沪移4K直
 CCTV-16奥林匹克UHD,https://ikcdn01.ikzybf.com/20240219/DSEJuK59/index.m3u8$1美无4K直
 地市频道,#genre#
-巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8$1川移HD直
 德阳综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd$1川电HD直
 德阳综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8$2川电HD直
 德阳文旅科教,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8$1川电HD直
