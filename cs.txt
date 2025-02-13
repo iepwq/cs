@@ -5001,5 +5001,4 @@ iPanda,https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao02_2_td.m3u8$18川
 华西医院营山院区四川营山,https://yslive.ysxtv.cn/live1029/ch2.m3u8?auth_key=1730170466-0-0-4e8ad6d81bbf348d98ce533cd1593059$1渝移HD直
 龙顶观四川营山,https://yslive.ysxtv.cn/live1029/ch1.m3u8?auth_key=1730170443-0-0-0739a85a001c0216fbe1ea63b18152b8$1渝移HD直
 明德茶园四川营山,https://yslive.ysxtv.cn/live1029/ch5.m3u8?auth_key=1730170513-0-0-ccca694fb869db5541dc507e890c3a18$1渝移HD直
-nan频道,#genre#
-河南卫视UHD,http://1.196.206.237:808/hls/31/index.m3u8$1豫电4K直
+
