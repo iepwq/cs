@@ -491,7 +491,7 @@ iPanda,https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao08_2_td.m3u8$20渝
 华西医院营山院区四川营山,https://yslive.ysxtv.cn/live1029/ch2.m3u8?auth_key=1730170466-0-0-4e8ad6d81bbf348d98ce533cd1593059$1川电HD直
 龙顶观四川营山,https://yslive.ysxtv.cn/live1029/ch1.m3u8?auth_key=1730170443-0-0-0739a85a001c0216fbe1ea63b18152b8$1川电HD直
 明德茶园四川营山,https://yslive.ysxtv.cn/live1029/ch5.m3u8?auth_key=1730170513-0-0-ccca694fb869db5541dc507e890c3a18$1川电HD直
-04301937,#genre#
+05011356,#genre#
 央视IPV6,#genre#
 CCTV-1综合,http://[2409:8a62:5514:c6b0:5693:59ff:fe5a:ac49]:3128/http://39.134.65.208/PLTV/88888888/224/3221225816/main.m3u8$1黑移FD回
 CCTV-1综合,http://[2409:8a62:5514:c6b0:5693:59ff:fe5a:ac49]:3128/http://39.134.66.66/PLTV/88888888/224/3221225816/main.m3u8$2黑移FD回
